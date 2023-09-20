@@ -12,3 +12,13 @@ body{
     background-color: chocolate;
     height: 100vh;
 }
+
+.container{
+    width: 550px;
+    height: 450px;
+}
+
+.header{
+    text-align: center;
+    margin-bottom: 50px;
+}
