@@ -55,7 +55,7 @@ const quotes = [{
 }, {
     quote: `"Välj ett jobb du älskar, och du kommer aldrig behöva arbeta en dag i ditt liv."`,
     writer: `- Confucious`
-},];
+}];
 
 let btn = document.querySelector("#Qbtn");
 let quote = document.querySelector(".quote");
