@@ -59,3 +59,18 @@ body{
     margin-top: 20px;
     padding: 10px 0;
 }
+
+.button-area .btn button{
+    background-color: #262626;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px; 
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 12px 15px; 
+}
+
+.button-area .btn button:active{
+    background-color: deepskyblue;
+}
