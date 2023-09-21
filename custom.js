@@ -3,8 +3,8 @@ const quotes = [{
     writer: `-Mae West`
 }, {
     quote: `"If you want to live a happy life, tie it to a goal, not to people or things."`,
-    writer: `"-Albert Einstein"`
-},]
+    writer: `-Albert Einstein`
+}];
 
 let btn = document.querySelector("#Qbtn");
 let quote = document.querySelector(".quote");
@@ -16,5 +16,4 @@ btn.addEventListener("click", function() {
     quote.innerHTML = quotes[random].quote;
 
     writer.innerHTML = quotes[random].writer;
-
-})
+});
