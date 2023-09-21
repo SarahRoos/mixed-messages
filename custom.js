@@ -1,9 +1,9 @@
 const quotes = [{
     quote: `"You only live once, but if you do it right, once is enough."`,
-    writer: `-Mae West`
+    writer: `Mae West`
 }, {
     quote: `"If you want to live a happy life, tie it to a goal, not to people or things."`,
-    writer: `-Albert Einstein`
+    writer: `Albert Einstein`
 }];
 
 let btn = document.querySelector("#Qbtn");
