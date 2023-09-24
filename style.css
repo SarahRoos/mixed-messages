@@ -74,3 +74,21 @@ body{
 .button-area .btn button:active{
     background-color: deepskyblue;
 }
+
+@media screen and (max-width: 600px) {
+
+    .container{
+        height: 550px;
+    }
+
+    .text-area{
+        font-size: 20px;
+        line-height: 1;
+    }
+    
+    .main-content .writer{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+}
